@@ -1,8 +1,8 @@
 # [Machine Learning](https://www.coursera.org/learn/machine-learning/home/welcome)
 
-Programming assignments of Coursera Machine Learning course by Dr.Andrew Ng
+Programming assignments of Coursera Machine Learning course taught by Dr.Andrew Ng
 
-This repo is for all the work done as a part of my Machine Learning's education journey.
+This repo is for all my work done as a part of my Machine Learning's education journey.
 
 ## About this Course
 
